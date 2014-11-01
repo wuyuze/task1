@@ -124,7 +124,7 @@ def geturl2(url):                              #得到文章内部的跳转链�
 print 'Loading..........'            #start
 url1=[]
 url2=[]
-url=('http://www.jianshu.com/collection/fcd7a62be697/top','http://www.jianshu.com/collection/NEt52a/top','http://www.jianshu.com/collection/723de9bac3cd')
+url=('http://www.jianshu.com/collection/fcd7a62be697/top','http://www.jianshu.com/collection/GUwFza/top','http://www.jianshu.com/collection/723de9bac3cd')
 j=0
 for n in range(3):              #一重循环
     geturl1(url[n])            
